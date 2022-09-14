@@ -34,6 +34,5 @@
 <br/> 
 <br/>
 
-![ClapGIF (2)](https://user-images.githubusercontent.com/83863024/190106859-77e1b78c-49bb-4f5d-97a9-6e416a38d492.gif)
-
+<img src= "https://user-images.githubusercontent.com/83863024/190106859-77e1b78c-49bb-4f5d-97a9-6e416a38d492.gif" width=10% height=10%>
 
