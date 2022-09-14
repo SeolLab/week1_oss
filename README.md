@@ -30,3 +30,7 @@
 
 ◼️ file:///D:/Data/Downloads/oss_introduction.pdf 
 
+<br/> 
+<br/>
+![ClapGIF](https://user-images.githubusercontent.com/83863024/190106624-41929f41-b7a4-4af0-9c2a-6f8fb3e2eefe.gif)
+
