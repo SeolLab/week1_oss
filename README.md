@@ -24,6 +24,7 @@
 
 >📁 **source:** 
 
+
 ◼️ https://velog.io/@hdy20201004/Git-Github-4-Git%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC
 
 ◼️ https://velog.io/@gunu/GitHub-%EA%B8%B0%EB%B3%B8
@@ -32,5 +33,7 @@
 
 <br/> 
 <br/>
-![ClapGIF](https://user-images.githubusercontent.com/83863024/190106624-41929f41-b7a4-4af0-9c2a-6f8fb3e2eefe.gif)
+
+![ClapGIF (2)](https://user-images.githubusercontent.com/83863024/190106859-77e1b78c-49bb-4f5d-97a9-6e416a38d492.gif)
+
 
